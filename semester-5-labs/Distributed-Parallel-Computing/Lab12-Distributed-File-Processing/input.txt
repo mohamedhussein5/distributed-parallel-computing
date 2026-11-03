@@ -1,0 +1,10 @@
+
+Distributed computing allows multiple computers or processes to work together.
+
+Python supports multiprocessing for distributing computational tasks.
+
+File processing can involve counting words, lines, and characters.
+
+Parallel processing can improve performance for large workloads.
+
+Each worker processes a portion of the input data.
